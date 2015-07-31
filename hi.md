@@ -11,5 +11,4 @@ hello <- function( name ) {
 }
 {% endhighlight %}
 
-there
-
+bop
