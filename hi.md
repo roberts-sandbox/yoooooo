@@ -13,5 +13,3 @@ hello <- function( name ) {
 
 there
 
-there
-th
