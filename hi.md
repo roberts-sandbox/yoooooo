@@ -3,7 +3,7 @@
 
 hi
 
-```rd
+```rscript
 sort(unique(data$Descript))
 ```
 
