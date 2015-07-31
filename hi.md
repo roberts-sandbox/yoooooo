@@ -11,4 +11,12 @@ hello <- function( name ) {
 }
 ```
 
+ruby
+
+```ruby
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+```
+
 bop
