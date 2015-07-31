@@ -1,7 +1,7 @@
 ---
 ---
 
-r language language
+r language languages
 
 ```r
 sort(unique(data$Descript))
