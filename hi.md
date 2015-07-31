@@ -11,18 +11,13 @@ hello <- function( name ) {
 }
 ```
 
-ruby
+and
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
+```R
+sort(unique(data$Descript))
+
+hello <- function( name ) {
+    sprintf( "Hello, %s", name );
+}
 ```
 
-python highlight
-
-{% highlight python %}
-    from scipy import ndimage as nd
-{% endhighlight %}
-
-bop
