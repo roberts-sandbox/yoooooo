@@ -3,9 +3,9 @@
 
 hi
 
-{% highlight r %}
+```r
 sort(unique(data$Descript))
-{% endhighlight %}
+```
 
 there
 
