@@ -3,10 +3,9 @@
 
 hi
 
-```rscript
+```r
 sort(unique(data$Descript))
 ```
 
 there
 
-there
