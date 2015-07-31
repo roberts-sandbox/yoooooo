@@ -3,7 +3,7 @@
 
 hi
 
-{% highlight r %}
+{% highlight Rscript %}
 sort(unique(data$Descript))
 {% endhighlight %}
 
