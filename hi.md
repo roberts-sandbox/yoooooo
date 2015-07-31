@@ -2,7 +2,6 @@
 ---
 
 r language languages
-s
 
 ```r
 sort(unique(data$Descript))
@@ -12,7 +11,7 @@ hello <- function( name ) {
 }
 ```
 
-and
+and big R
 
 ```R
 sort(unique(data$Descript))
