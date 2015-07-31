@@ -19,4 +19,10 @@ def print_hi(name)
 end
 ```
 
+python
+
+{% highlight python %}
+    from scipy import ndimage as nd
+{% endhighlight %}
+
 bop
